@@ -1,6 +1,6 @@
 # RESEARCH_NOTES
 
-**Domain:** Vision Language Models
+**Domain:** Multimodal & Perception
 **Upstream:** https://github.com/LLaVA-VL/LLaVA-NeXT
 **Fork:** https://github.com/sureshsolannki-ai/LLaVA-NeXT
 **Priority:** Med
